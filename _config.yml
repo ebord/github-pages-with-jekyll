@@ -6,11 +6,8 @@
 title: Proposal Guideline
 description: working with some ideas here
 
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://ebord.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
-url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/docs" # the subpath of your site, e.g. /blog
+#url: "https://ebord.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: pmarsceill/just-the-docs
 
